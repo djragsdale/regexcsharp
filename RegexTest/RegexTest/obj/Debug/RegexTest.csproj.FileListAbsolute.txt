@@ -1,0 +1,9 @@
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\bin\Debug\RegexTest.exe.config
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\bin\Debug\RegexTest.exe
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\bin\Debug\RegexTest.pdb
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.csprojResolveAssemblyReference.cache
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.Form1.resources
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.Properties.Resources.resources
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.csproj.GenerateResource.Cache
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.exe
+C:\Users\djragsdale\Documents\Visual Studio 2012\Projects\RegexTest\RegexTest\obj\Debug\RegexTest.pdb
